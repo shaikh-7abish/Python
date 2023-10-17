@@ -1,5 +1,5 @@
-# Python
-if you want to view it offline download the html file attached as ```Python.html```
+# [Python](https://www.notion.so/maybe7abish/Python-de65cb3da9bf48ec9266f2837e839091?pvs=4)
+if you want to view it offline download the attached pdf file named as ```Python.pdf```
 
 <body><article id="de65cb3d-a9bf-48ec-9266-f2837e839091" class="page sans"><div class="page-body"><blockquote id="4e0190be-741c-47d6-af93-e435722b4e0a" class="">Python is an interpreted, object-oriented, high level programming language with dynamic semantics.</blockquote><figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="1165721a-0181-43dd-9d93-26664be64615"><div style="font-size:1.5em"><span class="icon">💡</span></div><div style="width:100%"><strong>interpreted </strong>= code doesn&#x27;t stop until found error, if found error on last lines the above code gets executed.
 <strong>object-oriented </strong>= works on the concept of &#x27;object&#x27; which can contain data and code
