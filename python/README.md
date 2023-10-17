@@ -324,6 +324,4 @@ con.execute(&#x27;create table tabish&#x27;)      # creating table and passing c
 con.close()     #closing file</code></pre></div><hr id="4bfd2d7f-3c43-4c17-adaf-f27de190677b"/><hr id="de41efc4-80b9-4031-9d92-3f975093577b"/><hr id="e18e2872-c105-4142-96da-447860a9c79f"/><hr id="5b4081c6-322b-4a9d-b473-95b591ab2bd7"/><pre id="f2807dd5-e699-4daa-ae5e-1dc680ba4a7c" class="code"><code>this file is created by Md Tabish Shaikh for learning purpose.</code></pre><p id="b89043ce-a2bc-42f5-b838-84562945bf24" class="">
 </p></div></article>
 
-<a href="https://github.com/shaikh-7abish/LearningPython">also checkout</a>
-
 </body></html>
